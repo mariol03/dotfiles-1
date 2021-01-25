@@ -76,7 +76,7 @@ gitall() {
     git push
 }
 alias gp='git push'
-
+alias gb='git branch '
 
 [ -f ~/.fzf.zsh ] && source ~/.fzf.zsh
 
